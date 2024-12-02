@@ -1,0 +1,10 @@
+{
+    "require": {
+        "endroid/qr-code": "^6.0",
+        "phpmailer/phpmailer": "^6.0",
+        "mmaaikel/html-qrcode-maker": "^0.0.9",
+        "ext-gd": "*",
+        "mpdf/mpdf": "^8.2",
+        "midtrans/midtrans-php": "^2.6"
+    }
+}
